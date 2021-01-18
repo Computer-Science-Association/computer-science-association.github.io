@@ -9,7 +9,7 @@ The talks will be hosted on Airmeet and live streamed to our [Youtube Channel](h
 
 ### BITS Feed
 
-[bits-feed.org](bits-feed.org) is a BITS Wide platform for student orgs throughout BITS Pilani's 4 campuses to publish the latest and greatest on. More that 40 orgs publish here regularly.
+[bits-feed.org](https://bits-feed.org) is a BITS Wide platform for student orgs throughout BITS Pilani's 4 campuses to publish the latest and greatest on. More that 40 orgs publish here regularly.
 
 ### Recruitments 2020-21
 
