@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Computer Science Association, BITS Pilani
 
-You can use the [editor on GitHub](https://github.com/Computer-Science-Association/computer-science-association.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We're the departmental association for the department of CSIS at BITS Pilani, Pilani Campus. We organise a variety of talks, events, competitions, hackathons, SIGs etc. throughout the year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Alumni Research Talks 10.0
 
-### Markdown
+ART 10.0 is going online for 2021, here's the link for the schedule, lineup and other details: [computer-science-association.github.io/art](https://computer-science-association.github.io/art).
+The talks will be hosted on Airmeet and live streamed to our [Youtube Channel](https://www.youtube.com/channel/UCYiBwzdsS8FImzKCDlnTqfw) and our Facebook pages: [ART](https://www.facebook.com/Alumni.Research.Talks) and [CSA](https://www.facebook.com/csa.bits). You can join the live streams incase you can't find a seat on Airmeet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### BITS Feed
 
-```markdown
-Syntax highlighted code block
+[bits-feed.org](bits-feed.org) is a BITS Wide platform for student orgs throughout BITS Pilani's 4 campuses to publish the latest and greatest on. More that 40 orgs publish here regularly.
 
-# Header 1
-## Header 2
-### Header 3
+### Recruitments 2020-21
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Computer-Science-Association/computer-science-association.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Our 2020 round of recruitments is over, hope you had fun solving Mindturner. Check this page and your inbox regularly for future rounds. Here's the link to the recruitments papge: [https://computer-science-association.github.io/recruits-landing/](https://computer-science-association.github.io/recruits-landing/)
