@@ -19,7 +19,8 @@ Chinmay Shah <br>
 
 **Programming with a Twist!** <br>
 Solve seemingly simple coding problems, but with a surprise set of rules and evaluation criteria! Put on your coding hats and test your skills against this mind-boggling challenge! <br> <br>
-**Date**: Saturday 20 MarchTime: 3:30 PM - 4:30 PM <br>
+**Date**: Saturday 20 March <br>
+**Time**: 3:30 PM - 4:30 PM <br>
 **Register [Here](https://dare2compete.com/o/anti-coding-apogee-bits-pilani-birla-institute-of-technology-science-bits-pilani-151030)**! <br> <br>
 Aditya Patwa <br>
 +91 9825056717 <br>
@@ -29,7 +30,8 @@ Aditya Patwa <br>
 
 A **classical Machine Learning challenge** designed for everyone! Preprocess a given dataset on which a fixed model would be trained and tested.. <br>
 Can you bring out the best predictions in the most efficient way? <br> <br>
-**Date**: Sunday 21 MarchTime: 3:00 PM - 5:00 PM <br>
+**Date**: Sunday 21 March <br>
+**Time**: 3:00 PM - 5:00 PM <br>
 **Register [Here](https://dare2compete.com/o/datageddon-apogee-bits-pilani-birla-institute-of-technology-science-bits-pilani-151049)**! <br> <br>
 Nitin Rana <br>
 +91 8954500818 <br>
