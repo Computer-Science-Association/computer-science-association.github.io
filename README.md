@@ -45,7 +45,3 @@ The talks will be hosted on Airmeet and live streamed to our [Youtube Channel](h
 ### BITS Feed
 
 [bits-feed.org](https://bits-feed.org) is a BITS Wide platform for student orgs throughout BITS Pilani's 4 campuses to publish the latest and greatest on. More that 40 orgs publish here regularly.
-
-### Recruitments 2020-21
-
-Our 2020 round of recruitments is over, hope you had fun solving Mindturner. Check this page and your inbox regularly for future rounds. Here's the link to the recruitments papge: [https://computer-science-association.github.io/recruits-landing/](https://computer-science-association.github.io/recruits-landing/)
